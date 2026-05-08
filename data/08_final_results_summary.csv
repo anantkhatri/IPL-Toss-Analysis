@@ -1,0 +1,15 @@
+metric,value
+Reduced Model 1 home effect estimate,0.11204217956822088
+Reduced Model 1 home effect p-value,4.985580643046011e-4
+Reduced Model 2 home effect estimate,0.12243284617494676
+Reduced Model 2 home effect p-value,1.7469976468655643e-4
+Reduced Model 2 won_toss estimate,0.02782406101574913
+Reduced Model 2 won_toss p-value,0.3877118052496018
+Reduced Model 2 toss_winner_at_home estimate,-0.02739194632869385
+Reduced Model 2 toss_winner_at_home p-value,0.3982830791926903
+Reduced Model 2 batting_first estimate,-0.06043368820163375
+Reduced Model 2 batting_first p-value,0.06202988241762482
+Reduced model comparison F-statistic,1.9671978412843456
+Reduced model comparison p-value,0.11723190811465033
+Reduced Model 1 max VIF,1.0127311916363275
+Reduced Model 2 max VIF,1.0665242805367967

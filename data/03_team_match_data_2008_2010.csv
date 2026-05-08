@@ -1,0 +1,1257 @@
+match_id,date,season,city,venue,team,opponent,home_team,is_home,won_toss,toss_winner_at_home,team_innings_order,batting_first,won_match,match_winner_missing
+335982,2008-04-18,2008,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+335982,2008-04-18,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+335983,2008-04-19,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,1,0
+335983,2008-04-19,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,0,0,bowl_first,0,0,0
+335984,2008-04-19,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,0,0,bowl_first,0,1,0
+335984,2008-04-19,2008,Delhi,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+335985,2008-04-20,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,1,bat_first,1,0,0
+335985,2008-04-20,2008,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+335986,2008-04-20,2008,Kolkata,Eden Gardens,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+335986,2008-04-20,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+335987,2008-04-21,2008,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+335987,2008-04-21,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+335988,2008-04-22,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Delhi Capitals,Deccan Chargers,1,1,1,bat_first,1,0,0
+335988,2008-04-22,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,1,0
+335989,2008-04-23,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,0,0,bat_first,1,1,0
+335989,2008-04-23,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+335990,2008-04-24,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Rajasthan Royals,Deccan Chargers,1,0,0,bat_first,1,0,0
+335990,2008-04-24,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+335991,2008-04-25,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bat_first,1,1,0
+335991,2008-04-25,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+335992,2008-04-26,2008,Bangalore,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+335992,2008-04-26,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+335993,2008-04-26,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+335993,2008-04-26,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+335994,2008-04-27,2008,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Mumbai Indians,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+335994,2008-04-27,2008,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Deccan Chargers,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+335995,2008-04-27,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+335995,2008-04-27,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+335996,2008-04-28,2008,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,1,0
+335996,2008-04-28,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,0,0,bowl_first,0,0,0
+335997,2008-04-29,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,1,1,bat_first,1,0,0
+335997,2008-04-29,2008,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,1,0
+335998,2008-04-30,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bat_first,1,1,0
+335998,2008-04-30,2008,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+335999,2008-05-01,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kings XI Punjab,Deccan Chargers,1,0,0,bat_first,1,0,0
+335999,2008-05-01,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+336000,2008-05-01,2008,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+336000,2008-05-01,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,1,1,bat_first,1,1,0
+336001,2008-05-02,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,1,1,bat_first,1,0,0
+336001,2008-05-02,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+336003,2008-05-03,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,1,1,bat_first,1,1,0
+336003,2008-05-03,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,0,0
+336034,2008-05-03,2008,Bangalore,M Chinnaswamy Stadium,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+336034,2008-05-03,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+336004,2008-05-04,2008,Mumbai,Dr DY Patil Sports Academy,Delhi Capitals,Mumbai Indians,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+336004,2008-05-04,2008,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Delhi Capitals,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+336005,2008-05-04,2008,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+336005,2008-05-04,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+336006,2008-05-05,2008,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+336006,2008-05-05,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+336007,2008-05-06,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,1,0,0,bat_first,1,0,0
+336007,2008-05-06,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,1,0
+336008,2008-05-07,2008,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Rajasthan Royals,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+336008,2008-05-07,2008,Mumbai,Dr DY Patil Sports Academy,Rajasthan Royals,Mumbai Indians,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+336009,2008-05-08,2008,Delhi,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+336009,2008-05-08,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,0,0,bat_first,1,0,0
+336010,2008-05-08,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+336010,2008-05-08,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+336011,2008-05-09,2008,Jaipur,Sawai Mansingh Stadium,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+336011,2008-05-09,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+336013,2008-05-10,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,0,0,bat_first,1,1,0
+336013,2008-05-10,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+336014,2008-05-11,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,1,0,0,bowl_first,0,0,0
+336014,2008-05-11,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,0,1,0,bat_first,1,1,0
+336015,2008-05-11,2008,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+336015,2008-05-11,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+336016,2008-05-12,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+336016,2008-05-12,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+336017,2008-05-13,2008,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+336017,2008-05-13,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+336018,2008-05-14,2008,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+336018,2008-05-14,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bowl_first,0,1,0
+336020,2008-05-15,2008,Delhi,Feroz Shah Kotla,Deccan Chargers,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+336020,2008-05-15,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Deccan Chargers,Delhi Capitals,1,0,0,bat_first,1,1,0
+336021,2008-05-16,2008,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+336021,2008-05-16,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,1,0
+336022,2008-05-17,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bat_first,1,0,0
+336022,2008-05-17,2008,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+336023,2008-05-17,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,0,0,bat_first,1,1,0
+336023,2008-05-17,2008,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,0,0
+336024,2008-05-18,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Mumbai Indians,Deccan Chargers,1,1,1,bowl_first,0,0,0
+336024,2008-05-18,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Deccan Chargers,Deccan Chargers,0,0,1,bat_first,1,1,0
+336025,2008-05-18,2008,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,1,0
+336025,2008-05-18,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,1,1,bat_first,1,0,0
+336026,2008-05-19,2008,Bangalore,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+336026,2008-05-19,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+336027,2008-05-20,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+336027,2008-05-20,2008,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+336028,2008-05-21,2008,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+336028,2008-05-21,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bowl_first,0,0,0
+336029,2008-05-21,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+336029,2008-05-21,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+336031,2008-05-23,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+336031,2008-05-23,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Deccan Chargers,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+336032,2008-05-24,2008,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,1,1,bowl_first,0,1,0
+336032,2008-05-24,2008,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+336033,2008-05-24,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+336033,2008-05-24,2008,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+336002,2008-05-25,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,1,1,1,bat_first,1,0,0
+336002,2008-05-25,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,1,0
+336035,2008-05-25,2008,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+336035,2008-05-25,2008,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+336036,2008-05-26,2008,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+336036,2008-05-26,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+336037,2008-05-27,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,1,0
+336037,2008-05-27,2008,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Chennai Super Kings,Deccan Chargers,1,1,1,bat_first,1,0,0
+336012,2008-05-28,2008,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+336012,2008-05-28,2008,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+336019,2008-05-28,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+336019,2008-05-28,2008,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+336038,2008-05-30,2008,Mumbai,Wankhede Stadium,Delhi Capitals,Rajasthan Royals,Mumbai Indians,0,1,0,bowl_first,0,0,0
+336038,2008-05-30,2008,Mumbai,Wankhede Stadium,Rajasthan Royals,Delhi Capitals,Mumbai Indians,0,0,0,bat_first,1,1,0
+336039,2008-05-31,2008,Mumbai,Wankhede Stadium,Chennai Super Kings,Kings XI Punjab,Mumbai Indians,0,0,0,bowl_first,0,1,0
+336039,2008-05-31,2008,Mumbai,Wankhede Stadium,Kings XI Punjab,Chennai Super Kings,Mumbai Indians,0,1,0,bat_first,1,0,0
+336040,2008-06-01,2008,Mumbai,Dr DY Patil Sports Academy,Chennai Super Kings,Rajasthan Royals,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+336040,2008-06-01,2008,Mumbai,Dr DY Patil Sports Academy,Rajasthan Royals,Chennai Super Kings,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+419106,2010-03-12,2010,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Kolkata Knight Riders,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+419106,2010-03-12,2010,Mumbai,Dr DY Patil Sports Academy,Kolkata Knight Riders,Deccan Chargers,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+419107,2010-03-13,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,1,1,bat_first,1,1,0
+419107,2010-03-13,2010,Mumbai,Brabourne Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+419108,2010-03-13,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+419108,2010-03-13,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,0,0
+419109,2010-03-14,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+419109,2010-03-14,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+419110,2010-03-14,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+419110,2010-03-14,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+419111,2010-03-15,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+419111,2010-03-15,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,0,0,bat_first,1,0,0
+419112,2010-03-16,2010,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,0,0
+419112,2010-03-16,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bowl_first,0,1,0
+419113,2010-03-16,2010,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,1,0
+419113,2010-03-16,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,0,0,bowl_first,0,0,0
+419114,2010-03-17,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,1,1,bowl_first,0,0,0
+419114,2010-03-17,2010,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+419115,2010-03-18,2010,Bangalore,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+419115,2010-03-18,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+419116,2010-03-19,2010,Delhi,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+419116,2010-03-19,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,1,1,bat_first,1,0,0
+419117,2010-03-19,2010,Cuttack,Barabati Stadium,Deccan Chargers,Kings XI Punjab,Deccan Chargers,1,0,0,bat_first,1,1,0
+419117,2010-03-19,2010,Cuttack,Barabati Stadium,Kings XI Punjab,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,0,0
+419118,2010-03-20,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+419118,2010-03-20,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,1,1,bat_first,1,1,0
+419119,2010-03-20,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,1,bat_first,1,0,0
+419119,2010-03-20,2010,Mumbai,Brabourne Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+419120,2010-03-21,2010,Cuttack,Barabati Stadium,Deccan Chargers,Delhi Capitals,Deccan Chargers,1,1,1,bat_first,1,1,0
+419120,2010-03-21,2010,Cuttack,Barabati Stadium,Delhi Capitals,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,0,0
+419122,2010-03-22,2010,Mumbai,Brabourne Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,0,0
+419122,2010-03-22,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,0,0,bowl_first,0,1,0
+419123,2010-03-23,2010,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+419123,2010-03-23,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+419124,2010-03-24,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+419124,2010-03-24,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+419125,2010-03-25,2010,Mumbai,"Brabourne Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+419125,2010-03-25,2010,Mumbai,"Brabourne Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bowl_first,0,1,0
+419128,2010-03-25,2010,Bangalore,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+419128,2010-03-25,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+419126,2010-03-26,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+419126,2010-03-26,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Deccan Chargers,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+419127,2010-03-27,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,0,0,bowl_first,0,0,0
+419127,2010-03-27,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,1,0
+419129,2010-03-28,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+419129,2010-03-28,2010,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,1,1,bat_first,1,1,0
+419130,2010-03-28,2010,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Mumbai Indians,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+419130,2010-03-28,2010,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Deccan Chargers,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+419131,2010-03-29,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,1,1,bat_first,1,1,0
+419131,2010-03-29,2010,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+419132,2010-03-30,2010,Mumbai,Brabourne Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+419132,2010-03-30,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bowl_first,0,1,0
+419133,2010-03-31,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+419133,2010-03-31,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+419134,2010-03-31,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,1,1,bat_first,1,1,0
+419134,2010-03-31,2010,Delhi,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+419135,2010-04-01,2010,Kolkata,Eden Gardens,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+419135,2010-04-01,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+419136,2010-04-02,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,1,1,bat_first,1,0,0
+419136,2010-04-02,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+419137,2010-04-03,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,1,1,bat_first,1,1,0
+419137,2010-04-03,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+419138,2010-04-03,2010,Mumbai,Brabourne Stadium,Deccan Chargers,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+419138,2010-04-03,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Deccan Chargers,Mumbai Indians,1,1,1,bat_first,1,1,0
+419139,2010-04-04,2010,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,1,0
+419139,2010-04-04,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,1,1,bat_first,1,0,0
+419140,2010-04-04,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,1,1,bat_first,1,1,0
+419140,2010-04-04,2010,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+419141,2010-04-05,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Deccan Chargers,Rajasthan Royals,Mumbai Indians,0,0,0,bowl_first,0,0,0
+419141,2010-04-05,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Rajasthan Royals,Deccan Chargers,Mumbai Indians,0,1,0,bat_first,1,1,0
+419142,2010-04-06,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,1,1,bat_first,1,1,0
+419142,2010-04-06,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+419143,2010-04-07,2010,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+419143,2010-04-07,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+419144,2010-04-07,2010,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+419144,2010-04-07,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+419145,2010-04-08,2010,Bangalore,M Chinnaswamy Stadium,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+419145,2010-04-08,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+419146,2010-04-09,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+419146,2010-04-09,2010,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+419147,2010-04-10,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Chennai Super Kings,Deccan Chargers,Mumbai Indians,0,1,0,bat_first,1,0,0
+419147,2010-04-10,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Deccan Chargers,Chennai Super Kings,Mumbai Indians,0,0,0,bowl_first,0,1,0
+419148,2010-04-10,2010,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+419148,2010-04-10,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+419149,2010-04-11,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bat_first,1,0,0
+419149,2010-04-11,2010,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+419150,2010-04-11,2010,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,1,0
+419150,2010-04-11,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bowl_first,0,0,0
+419151,2010-04-12,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Deccan Chargers,Royal Challengers Bangalore,Mumbai Indians,0,0,0,bat_first,1,1,0
+419151,2010-04-12,2010,Nagpur,"Vidarbha Cricket Association Stadium, Jamtha",Royal Challengers Bangalore,Deccan Chargers,Mumbai Indians,0,1,0,bowl_first,0,0,0
+419152,2010-04-13,2010,Mumbai,Brabourne Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+419152,2010-04-13,2010,Mumbai,Brabourne Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,1,1,bat_first,1,1,0
+419153,2010-04-13,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+419153,2010-04-13,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+419154,2010-04-14,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,1,1,bat_first,1,0,0
+419154,2010-04-14,2010,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,1,0
+419155,2010-04-15,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,1,1,bat_first,1,0,0
+419155,2010-04-15,2010,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+419156,2010-04-16,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+419156,2010-04-16,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,1,0,0,bat_first,1,0,0
+419157,2010-04-17,2010,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+419157,2010-04-17,2010,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+419158,2010-04-17,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+419158,2010-04-17,2010,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+419159,2010-04-18,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+419159,2010-04-18,2010,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,0,0,bat_first,1,0,0
+419160,2010-04-18,2010,Delhi,Feroz Shah Kotla,Deccan Chargers,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+419160,2010-04-18,2010,Delhi,Feroz Shah Kotla,Delhi Capitals,Deccan Chargers,Delhi Capitals,1,0,0,bowl_first,0,0,0
+419161,2010-04-19,2010,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+419161,2010-04-19,2010,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+419162,2010-04-21,2010,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Royal Challengers Bangalore,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+419162,2010-04-21,2010,Mumbai,Dr DY Patil Sports Academy,Royal Challengers Bangalore,Mumbai Indians,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+419163,2010-04-22,2010,Mumbai,Dr DY Patil Sports Academy,Chennai Super Kings,Deccan Chargers,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+419163,2010-04-22,2010,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+419164,2010-04-24,2010,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Royal Challengers Bangalore,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+419164,2010-04-24,2010,Mumbai,Dr DY Patil Sports Academy,Royal Challengers Bangalore,Deccan Chargers,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+419165,2010-04-25,2010,Mumbai,Dr DY Patil Sports Academy,Chennai Super Kings,Mumbai Indians,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+419165,2010-04-25,2010,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+501198,2011-04-08,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501198,2011-04-08,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+501199,2011-04-09,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Rajasthan Royals,Deccan Chargers,1,0,0,bat_first,1,0,0
+501199,2011-04-09,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+501200,2011-04-09,2011,Kochi,Nehru Stadium,Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerela,0,1,0,bat_first,1,0,0
+501200,2011-04-09,2011,Kochi,Nehru Stadium,Royal Challengers Bangalore,Kochi Tuskers Kerala,Kochi Tuskers Kerela,0,0,0,bowl_first,0,1,0
+501201,2011-04-10,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,1,1,bat_first,1,0,0
+501201,2011-04-10,2011,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+501202,2011-04-10,2011,Mumbai,Dr DY Patil Sports Academy,Kings XI Punjab,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+501202,2011-04-10,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Kings XI Punjab,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+501203,2011-04-11,2011,Kolkata,Eden Gardens,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+501203,2011-04-11,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+501204,2011-04-12,2011,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+501204,2011-04-12,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+501205,2011-04-12,2011,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+501205,2011-04-12,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+501206,2011-04-13,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+501206,2011-04-13,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+501207,2011-04-13,2011,Mumbai,Dr DY Patil Sports Academy,Kochi Tuskers Kerala,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+501207,2011-04-13,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Kochi Tuskers Kerala,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+501208,2011-04-14,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,1,0,0,bat_first,1,1,0
+501208,2011-04-14,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,0,0
+501209,2011-04-15,2011,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+501209,2011-04-15,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,0,0,bat_first,1,0,0
+501210,2011-04-15,2011,Mumbai,Wankhede Stadium,Kochi Tuskers Kerala,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+501210,2011-04-15,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Kochi Tuskers Kerala,Mumbai Indians,1,0,0,bat_first,1,0,0
+501211,2011-04-16,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501211,2011-04-16,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+501212,2011-04-16,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kings XI Punjab,Deccan Chargers,1,0,0,bat_first,1,0,0
+501212,2011-04-16,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+501213,2011-04-17,2011,Mumbai,Dr DY Patil Sports Academy,Delhi Capitals,Pune Warriors,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+501213,2011-04-17,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Delhi Capitals,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+501214,2011-04-17,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+501214,2011-04-17,2011,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+501215,2011-04-18,2011,Kochi,Nehru Stadium,Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerela,0,0,0,bat_first,1,0,0
+501215,2011-04-18,2011,Kochi,Nehru Stadium,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerela,0,1,0,bowl_first,0,1,0
+501216,2011-04-19,2011,Delhi,Feroz Shah Kotla,Deccan Chargers,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+501216,2011-04-19,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Deccan Chargers,Delhi Capitals,1,0,0,bowl_first,0,0,0
+501218,2011-04-20,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Pune Warriors,Mumbai Indians,1,0,0,bowl_first,0,1,0
+501218,2011-04-20,2011,Mumbai,Wankhede Stadium,Pune Warriors,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,0,0
+501219,2011-04-20,2011,Kolkata,Eden Gardens,Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+501219,2011-04-20,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Kochi Tuskers Kerala,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+501220,2011-04-21,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+501220,2011-04-21,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+501221,2011-04-22,2011,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+501221,2011-04-22,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,0,0,bat_first,1,1,0
+501222,2011-04-22,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+501222,2011-04-22,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+501223,2011-04-23,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,0,0,bat_first,1,1,0
+501223,2011-04-23,2011,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+501224,2011-04-24,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Mumbai Indians,Deccan Chargers,1,1,1,bowl_first,0,0,0
+501224,2011-04-24,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Deccan Chargers,Deccan Chargers,0,0,1,bat_first,1,1,0
+501225,2011-04-24,2011,Jaipur,Sawai Mansingh Stadium,Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+501225,2011-04-24,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+501226,2011-04-25,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Chennai Super Kings,1,0,0,bat_first,1,1,0
+501226,2011-04-25,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+501227,2011-04-26,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bat_first,1,0,0
+501227,2011-04-26,2011,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+501228,2011-04-27,2011,Mumbai,Dr DY Patil Sports Academy,Chennai Super Kings,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+501228,2011-04-27,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Chennai Super Kings,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+501229,2011-04-27,2011,Kochi,Nehru Stadium,Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerela,0,0,0,bat_first,1,1,0
+501229,2011-04-27,2011,Kochi,Nehru Stadium,Kochi Tuskers Kerala,Deccan Chargers,Kochi Tuskers Kerela,0,1,0,bowl_first,0,0,0
+501230,2011-04-28,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,1,1,bowl_first,0,0,0
+501230,2011-04-28,2011,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+501231,2011-04-29,2011,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+501231,2011-04-29,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+501232,2011-04-29,2011,Bangalore,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+501232,2011-04-29,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+501233,2011-04-30,2011,Kochi,Nehru Stadium,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerela,0,1,0,bat_first,1,1,0
+501233,2011-04-30,2011,Kochi,Nehru Stadium,Kochi Tuskers Kerala,Delhi Capitals,Kochi Tuskers Kerela,0,0,0,bowl_first,0,0,0
+501234,2011-04-30,2011,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+501234,2011-04-30,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+501235,2011-05-01,2011,Jaipur,Sawai Mansingh Stadium,Pune Warriors,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+501235,2011-05-01,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Pune Warriors,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+501236,2011-05-01,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501236,2011-05-01,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+501237,2011-05-02,2011,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+501237,2011-05-02,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,0,0,bat_first,1,1,0
+501238,2011-05-02,2011,Delhi,Feroz Shah Kotla,Delhi Capitals,Kochi Tuskers Kerala,Delhi Capitals,1,0,0,bat_first,1,0,0
+501238,2011-05-02,2011,Delhi,Feroz Shah Kotla,Kochi Tuskers Kerala,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+501239,2011-05-03,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,1,1,1,bowl_first,0,0,0
+501239,2011-05-03,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,0,0,1,bat_first,1,1,0
+501240,2011-05-04,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+501240,2011-05-04,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+501241,2011-05-04,2011,Mumbai,Dr DY Patil Sports Academy,Mumbai Indians,Pune Warriors,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+501241,2011-05-04,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Mumbai Indians,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+501242,2011-05-05,2011,Kochi,Nehru Stadium,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerela,0,0,0,bat_first,1,1,0
+501242,2011-05-05,2011,Kochi,Nehru Stadium,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerela,0,1,0,bowl_first,0,0,0
+501243,2011-05-05,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Delhi Capitals,Deccan Chargers,1,0,0,bat_first,1,0,0
+501243,2011-05-05,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+501244,2011-05-06,2011,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+501244,2011-05-06,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+501245,2011-05-07,2011,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+501245,2011-05-07,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+501246,2011-05-07,2011,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+501246,2011-05-07,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,0,bat_first,1,1,0
+501247,2011-05-08,2011,Bangalore,M Chinnaswamy Stadium,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,0,0
+501247,2011-05-08,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,1,0,0,bowl_first,0,1,0
+501248,2011-05-08,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors,Kings XI Punjab,1,1,1,bat_first,1,0,0
+501248,2011-05-08,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Pune Warriors,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+501249,2011-05-09,2011,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,1,0
+501249,2011-05-09,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,1,1,bowl_first,0,0,0
+501250,2011-05-10,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Pune Warriors,Deccan Chargers,1,1,1,bat_first,1,0,0
+501250,2011-05-10,2011,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Pune Warriors,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,1,0
+501251,2011-05-10,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bat_first,1,1,0
+501251,2011-05-10,2011,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+501252,2011-05-11,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,0,0,bat_first,1,0,0
+501252,2011-05-11,2011,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+501253,2011-05-12,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501253,2011-05-12,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+501254,2011-05-13,2011,Indore,Holkar Cricket Stadium,Kings XI Punjab,Kochi Tuskers Kerala,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+501254,2011-05-13,2011,Indore,Holkar Cricket Stadium,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+501255,2011-05-14,2011,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+501255,2011-05-14,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+501256,2011-05-14,2011,Mumbai,Wankhede Stadium,Deccan Chargers,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,1,0
+501256,2011-05-14,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Deccan Chargers,Mumbai Indians,1,0,0,bowl_first,0,0,0
+501257,2011-05-15,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+501257,2011-05-15,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+501258,2011-05-15,2011,Indore,Holkar Cricket Stadium,Kochi Tuskers Kerala,Rajasthan Royals,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+501258,2011-05-15,2011,Indore,Holkar Cricket Stadium,Rajasthan Royals,Kochi Tuskers Kerala,Kings XI Punjab,0,0,0,bat_first,1,0,0
+501259,2011-05-16,2011,Mumbai,Dr DY Patil Sports Academy,Deccan Chargers,Pune Warriors,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+501259,2011-05-16,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Deccan Chargers,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+501260,2011-05-17,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,1,1,bat_first,1,1,0
+501260,2011-05-17,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,0,0
+501261,2011-05-18,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501261,2011-05-18,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Kochi Tuskers Kerala,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+501262,2011-05-19,2011,Mumbai,Dr DY Patil Sports Academy,Kolkata Knight Riders,Pune Warriors,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+501262,2011-05-19,2011,Mumbai,Dr DY Patil Sports Academy,Pune Warriors,Kolkata Knight Riders,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+501263,2011-05-20,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,1,1,bat_first,1,0,0
+501263,2011-05-20,2011,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+501264,2011-05-21,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+501264,2011-05-21,2011,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+501266,2011-05-22,2011,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+501266,2011-05-22,2011,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+501267,2011-05-22,2011,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+501267,2011-05-22,2011,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+501268,2011-05-24,2011,Mumbai,Wankhede Stadium,Chennai Super Kings,Royal Challengers Bangalore,Mumbai Indians,0,1,0,bowl_first,0,1,0
+501268,2011-05-24,2011,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Chennai Super Kings,Mumbai Indians,0,0,0,bat_first,1,0,0
+501269,2011-05-25,2011,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+501269,2011-05-25,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,1,0
+501270,2011-05-27,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Royal Challengers Bangalore,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+501270,2011-05-27,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Mumbai Indians,Chennai Super Kings,0,0,0,bat_first,1,1,0
+501271,2011-05-28,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bat_first,1,1,0
+501271,2011-05-28,2011,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+548306,2012-04-04,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,0,0,bat_first,1,0,0
+548306,2012-04-04,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,1,0
+548307,2012-04-05,2012,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+548307,2012-04-05,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+548308,2012-04-06,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Pune Warriors,Mumbai Indians,1,1,1,bowl_first,0,0,0
+548308,2012-04-06,2012,Mumbai,Wankhede Stadium,Pune Warriors,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+548309,2012-04-06,2012,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,0,0
+548309,2012-04-06,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,0,0,bat_first,1,1,0
+548310,2012-04-07,2012,Bangalore,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+548310,2012-04-07,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+548311,2012-04-07,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai Super Kings,Deccan Chargers,Sunrisers Hyderabad,0,0,0,bat_first,1,1,0
+548311,2012-04-07,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,Chennai Super Kings,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+548312,2012-04-08,2012,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,0,0
+548312,2012-04-08,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,0,0,bat_first,1,1,0
+548313,2012-04-08,2012,Pune,Subrata Roy Sahara Stadium,Kings XI Punjab,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+548313,2012-04-08,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Kings XI Punjab,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+548314,2012-04-09,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Deccan Chargers,Mumbai Indians,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+548314,2012-04-09,2012,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Deccan Chargers,Sunrisers Hyderabad,0,0,0,bowl_first,0,1,0
+548315,2012-04-10,2012,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+548315,2012-04-10,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+548316,2012-04-10,2012,Delhi,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+548316,2012-04-10,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,1,1,bowl_first,0,1,0
+548317,2012-04-11,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,0,0,bat_first,1,1,0
+548317,2012-04-11,2012,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+548318,2012-04-12,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+548318,2012-04-12,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+548319,2012-04-12,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+548319,2012-04-12,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Pune Warriors,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+548320,2012-04-13,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+548320,2012-04-13,2012,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+548322,2012-04-14,2012,Pune,Subrata Roy Sahara Stadium,Chennai Super Kings,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+548322,2012-04-14,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+548323,2012-04-15,2012,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+548323,2012-04-15,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+548324,2012-04-15,2012,Bangalore,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,1,0
+548324,2012-04-15,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,1,0,0,bowl_first,0,0,0
+548325,2012-04-16,2012,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+548325,2012-04-16,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,0,bat_first,1,0,0
+548326,2012-04-17,2012,Jaipur,Sawai Mansingh Stadium,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+548326,2012-04-17,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+548327,2012-04-17,2012,Bangalore,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,0,0
+548327,2012-04-17,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,1,0,0,bowl_first,0,1,0
+548328,2012-04-18,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,1,1,bat_first,1,0,0
+548328,2012-04-18,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+548321,2012-04-19,2012,Delhi,Feroz Shah Kotla,Deccan Chargers,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+548321,2012-04-19,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Deccan Chargers,Delhi Capitals,1,0,0,bowl_first,0,1,0
+548330,2012-04-19,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Chennai Super Kings,1,0,0,bat_first,1,1,0
+548330,2012-04-19,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+548331,2012-04-20,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bat_first,1,0,0
+548331,2012-04-20,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+548332,2012-04-21,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+548332,2012-04-21,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+548333,2012-04-21,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Pune Warriors,Delhi Capitals,1,1,1,bowl_first,0,0,0
+548333,2012-04-21,2012,Delhi,Feroz Shah Kotla,Pune Warriors,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+548334,2012-04-22,2012,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+548334,2012-04-22,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bat_first,1,0,0
+548335,2012-04-22,2012,Cuttack,Barabati Stadium,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,1,0,0,bat_first,1,0,0
+548335,2012-04-22,2012,Cuttack,Barabati Stadium,Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,1,0
+548336,2012-04-23,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,1,1,bowl_first,0,0,0
+548336,2012-04-23,2012,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,1,0
+548337,2012-04-24,2012,Pune,Subrata Roy Sahara Stadium,Delhi Capitals,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+548337,2012-04-24,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Delhi Capitals,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+548339,2012-04-25,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,1,1,bat_first,1,0,0
+548339,2012-04-25,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+548341,2012-04-26,2012,Pune,Subrata Roy Sahara Stadium,Deccan Chargers,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+548341,2012-04-26,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Deccan Chargers,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+548342,2012-04-27,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,0,0,bat_first,1,1,0
+548342,2012-04-27,2012,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+548343,2012-04-28,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+548343,2012-04-28,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+548344,2012-04-28,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+548344,2012-04-28,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+548345,2012-04-29,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,1,1,bat_first,1,1,0
+548345,2012-04-29,2012,Delhi,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+548346,2012-04-29,2012,Mumbai,Wankhede Stadium,Deccan Chargers,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+548346,2012-04-29,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Deccan Chargers,Mumbai Indians,1,1,1,bowl_first,0,1,0
+548347,2012-04-30,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,1,1,bat_first,1,0,0
+548347,2012-04-30,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+548348,2012-05-01,2012,Cuttack,Barabati Stadium,Deccan Chargers,Pune Warriors,Deccan Chargers,1,1,1,bat_first,1,1,0
+548348,2012-05-01,2012,Cuttack,Barabati Stadium,Pune Warriors,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,0,0
+548349,2012-05-01,2012,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,1,0
+548349,2012-05-01,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,1,1,bat_first,1,0,0
+548350,2012-05-02,2012,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+548350,2012-05-02,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+548351,2012-05-03,2012,Pune,Subrata Roy Sahara Stadium,Mumbai Indians,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+548351,2012-05-03,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+548352,2012-05-04,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,1,1,1,bat_first,1,1,0
+548352,2012-05-04,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Deccan Chargers,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+548353,2012-05-05,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+548353,2012-05-05,2012,Kolkata,Eden Gardens,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+548354,2012-05-05,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,0,0,bowl_first,0,0,0
+548354,2012-05-05,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,1,0
+548355,2012-05-06,2012,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+548355,2012-05-06,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bowl_first,0,1,0
+548356,2012-05-06,2012,Bangalore,M Chinnaswamy Stadium,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+548356,2012-05-06,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+548357,2012-05-07,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,1,1,bat_first,1,0,0
+548357,2012-05-07,2012,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+548358,2012-05-08,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Rajasthan Royals,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+548358,2012-05-08,2012,Pune,Subrata Roy Sahara Stadium,Rajasthan Royals,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+548359,2012-05-08,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Kings XI Punjab,Deccan Chargers,1,1,1,bowl_first,0,0,0
+548359,2012-05-08,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Deccan Chargers,Deccan Chargers,0,0,1,bat_first,1,1,0
+548360,2012-05-09,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,0,0,bat_first,1,0,0
+548360,2012-05-09,2012,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+548329,2012-05-10,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Delhi Capitals,Deccan Chargers,1,1,1,bat_first,1,0,0
+548329,2012-05-10,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Deccan Chargers,Deccan Chargers,0,0,1,bowl_first,0,1,0
+548361,2012-05-10,2012,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+548361,2012-05-10,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,0,0,bat_first,1,0,0
+548362,2012-05-11,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Royal Challengers Bangalore,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+548362,2012-05-11,2012,Pune,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+548363,2012-05-12,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,0,0,bowl_first,0,0,0
+548363,2012-05-12,2012,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,1,0
+548364,2012-05-12,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+548364,2012-05-12,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+548365,2012-05-13,2012,Jaipur,Sawai Mansingh Stadium,Pune Warriors,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+548365,2012-05-13,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Pune Warriors,Rajasthan Royals,1,1,1,bat_first,1,1,0
+548366,2012-05-13,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+548366,2012-05-13,2012,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Deccan Chargers,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+548367,2012-05-14,2012,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+548367,2012-05-14,2012,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+548368,2012-05-14,2012,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+548368,2012-05-14,2012,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+548369,2012-05-15,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,0,0,bowl_first,0,1,0
+548369,2012-05-15,2012,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+548370,2012-05-16,2012,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+548370,2012-05-16,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,0,0
+548371,2012-05-17,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+548371,2012-05-17,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+548372,2012-05-17,2012,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,1,1,bowl_first,0,0,0
+548372,2012-05-17,2012,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+548373,2012-05-18,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Rajasthan Royals,Deccan Chargers,1,0,0,bowl_first,0,1,0
+548373,2012-05-18,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Deccan Chargers,Deccan Chargers,0,1,0,bat_first,1,0,0
+548374,2012-05-19,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+548374,2012-05-19,2012,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,0,0
+548375,2012-05-19,2012,Pune,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+548375,2012-05-19,2012,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Kolkata Knight Riders,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+548376,2012-05-20,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,1,0,0,bat_first,1,1,0
+548376,2012-05-20,2012,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,0,1,0,bowl_first,0,0,0
+548377,2012-05-20,2012,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,1,0
+548377,2012-05-20,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bat_first,1,0,0
+548378,2012-05-22,2012,Pune,Subrata Roy Sahara Stadium,Delhi Capitals,Kolkata Knight Riders,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+548378,2012-05-22,2012,Pune,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Delhi Capitals,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+548379,2012-05-23,2012,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Mumbai Indians,Royal Challengers Bangalore,0,0,0,bat_first,1,1,0
+548379,2012-05-23,2012,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Chennai Super Kings,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+548380,2012-05-25,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,0,0,bat_first,1,1,0
+548380,2012-05-25,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+548381,2012-05-27,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,1,1,bat_first,1,0,0
+548381,2012-05-27,2012,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+597998,2013-04-03,2013,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+597998,2013-04-03,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+597999,2013-04-04,2013,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+597999,2013-04-04,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+598000,2013-04-05,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Pune Warriors,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+598000,2013-04-05,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Pune Warriors,Deccan Chargers,0,0,0,bat_first,1,1,0
+598001,2013-04-06,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,0,0,bowl_first,0,0,0
+598001,2013-04-06,2013,Delhi,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+598002,2013-04-06,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+598002,2013-04-06,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+598003,2013-04-07,2013,Pune,Subrata Roy Sahara Stadium,Kings XI Punjab,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+598003,2013-04-07,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Kings XI Punjab,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+598005,2013-04-08,2013,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,0,0
+598005,2013-04-08,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,0,0,bat_first,1,1,0
+598006,2013-04-09,2013,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598006,2013-04-09,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,1,1,bat_first,1,1,0
+598048,2013-04-09,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,0,0,bowl_first,0,1,0
+598048,2013-04-09,2013,Bangalore,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,0,0
+598007,2013-04-10,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+598007,2013-04-10,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,0,0,bat_first,1,0,0
+598008,2013-04-11,2013,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+598008,2013-04-11,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+598009,2013-04-11,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Rajasthan Royals,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+598009,2013-04-11,2013,Pune,Subrata Roy Sahara Stadium,Rajasthan Royals,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+598010,2013-04-12,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,1,1,bat_first,1,0,0
+598010,2013-04-12,2013,Delhi,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+598011,2013-04-13,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Pune Warriors,Mumbai Indians,1,1,1,bat_first,1,1,0
+598011,2013-04-13,2013,Mumbai,Wankhede Stadium,Pune Warriors,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598012,2013-04-13,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+598012,2013-04-13,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+598013,2013-04-14,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+598013,2013-04-14,2013,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+598014,2013-04-14,2013,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+598014,2013-04-14,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+598015,2013-04-15,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Pune Warriors,Chennai Super Kings,1,0,0,bowl_first,0,0,0
+598015,2013-04-15,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Pune Warriors,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,1,0
+598016,2013-04-16,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,0,0,bat_first,1,1,0
+598016,2013-04-16,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+598018,2013-04-17,2013,Pune,Maharashtra Cricket Association Stadium,Pune Warriors,Sunrisers Hyderabad,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+598018,2013-04-17,2013,Pune,Maharashtra Cricket Association Stadium,Sunrisers Hyderabad,Pune Warriors,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+598019,2013-04-17,2013,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+598019,2013-04-17,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bat_first,1,1,0
+598020,2013-04-18,2013,Delhi,Feroz Shah Kotla,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+598020,2013-04-18,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,0,0,bowl_first,0,0,0
+598021,2013-04-19,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bat_first,1,0,0
+598021,2013-04-19,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kings XI Punjab,Deccan Chargers,0,0,0,bowl_first,0,1,0
+598022,2013-04-20,2013,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,1,0
+598022,2013-04-20,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,1,1,bat_first,1,0,0
+598023,2013-04-20,2013,Bangalore,M Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+598023,2013-04-20,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+598024,2013-04-21,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,0,0,bowl_first,0,1,0
+598024,2013-04-21,2013,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+598025,2013-04-21,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+598025,2013-04-21,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Pune Warriors,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+598026,2013-04-22,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+598026,2013-04-22,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+598027,2013-04-23,2013,Bangalore,M Chinnaswamy Stadium,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+598027,2013-04-23,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+598059,2013-04-23,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,0,0,bat_first,1,0,0
+598059,2013-04-23,2013,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+598029,2013-04-24,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,1,1,bat_first,1,0,0
+598029,2013-04-24,2013,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,1,0
+598030,2013-04-25,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,1,0,0,bowl_first,0,1,0
+598030,2013-04-25,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,1,0,bat_first,1,0,0
+598031,2013-04-26,2013,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+598031,2013-04-26,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+598032,2013-04-27,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+598032,2013-04-27,2013,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+598033,2013-04-27,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,1,bat_first,1,1,0
+598033,2013-04-27,2013,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598034,2013-04-28,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,0,0,bat_first,1,1,0
+598034,2013-04-28,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+598035,2013-04-28,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Pune Warriors,Delhi Capitals,1,0,0,bat_first,1,1,0
+598035,2013-04-28,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Pune Warriors,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+598036,2013-04-29,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+598036,2013-04-29,2013,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+598037,2013-04-29,2013,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598037,2013-04-29,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bat_first,1,1,0
+598038,2013-04-30,2013,Pune,Subrata Roy Sahara Stadium,Chennai Super Kings,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+598038,2013-04-30,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+598039,2013-05-01,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bat_first,1,0,0
+598039,2013-05-01,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,0,0,0,bowl_first,0,1,0
+598040,2013-05-01,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,0,0,bowl_first,0,1,0
+598040,2013-05-01,2013,Raipur,Shaheed Veer Narayan Singh International Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+598041,2013-05-02,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,1,1,bat_first,1,1,0
+598041,2013-05-02,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+598042,2013-05-02,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Royal Challengers Bangalore,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+598042,2013-05-02,2013,Pune,Subrata Roy Sahara Stadium,Royal Challengers Bangalore,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+598043,2013-05-03,2013,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+598043,2013-05-03,2013,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+598044,2013-05-04,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bat_first,1,0,0
+598044,2013-05-04,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,0,0,0,bowl_first,0,1,0
+598046,2013-05-05,2013,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598046,2013-05-05,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bat_first,1,1,0
+598047,2013-05-05,2013,Jaipur,Sawai Mansingh Stadium,Pune Warriors,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+598047,2013-05-05,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Pune Warriors,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+598064,2013-05-06,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+598064,2013-05-06,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+598049,2013-05-07,2013,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+598049,2013-05-07,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+598050,2013-05-07,2013,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+598050,2013-05-07,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bat_first,1,1,0
+598051,2013-05-08,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,1,0
+598051,2013-05-08,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Chennai Super Kings,Deccan Chargers,0,1,0,bowl_first,0,0,0
+598052,2013-05-09,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,0,0,bat_first,1,0,0
+598052,2013-05-09,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+598053,2013-05-09,2013,Pune,Subrata Roy Sahara Stadium,Kolkata Knight Riders,Pune Warriors,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+598053,2013-05-09,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Kolkata Knight Riders,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+598054,2013-05-10,2013,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,1,1,bowl_first,0,0,0
+598054,2013-05-10,2013,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+598055,2013-05-11,2013,Pune,Subrata Roy Sahara Stadium,Mumbai Indians,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+598055,2013-05-11,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Mumbai Indians,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+598056,2013-05-11,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+598056,2013-05-11,2013,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+598057,2013-05-12,2013,Ranchi,JSCA International Stadium Complex,Kolkata Knight Riders,Royal Challengers Bangalore,Chennai Super Kings,0,1,0,bowl_first,0,1,0
+598057,2013-05-12,2013,Ranchi,JSCA International Stadium Complex,Royal Challengers Bangalore,Kolkata Knight Riders,Chennai Super Kings,0,0,0,bat_first,1,0,0
+598058,2013-05-12,2013,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+598058,2013-05-12,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+598060,2013-05-13,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,1,0,0,bowl_first,0,1,0
+598060,2013-05-13,2013,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,0,0
+598045,2013-05-14,2013,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+598045,2013-05-14,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+598062,2013-05-14,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,1,1,bat_first,1,1,0
+598062,2013-05-14,2013,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+598061,2013-05-15,2013,Ranchi,JSCA International Stadium Complex,Kolkata Knight Riders,Pune Warriors,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+598061,2013-05-15,2013,Ranchi,JSCA International Stadium Complex,Pune Warriors,Kolkata Knight Riders,Chennai Super Kings,0,0,0,bat_first,1,1,0
+598063,2013-05-15,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,0,0,bat_first,1,1,0
+598063,2013-05-15,2013,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+598028,2013-05-16,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+598028,2013-05-16,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+598065,2013-05-17,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rajasthan Royals,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,0,0
+598065,2013-05-17,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rajasthan Royals,Deccan Chargers,0,1,0,bat_first,1,1,0
+598066,2013-05-18,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bat_first,1,1,0
+598066,2013-05-18,2013,Dharamsala,Himachal Pradesh Cricket Association Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+598068,2013-05-18,2013,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+598068,2013-05-18,2013,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+598067,2013-05-19,2013,Pune,Subrata Roy Sahara Stadium,Delhi Capitals,Pune Warriors,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+598067,2013-05-19,2013,Pune,Subrata Roy Sahara Stadium,Pune Warriors,Delhi Capitals,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+598069,2013-05-19,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bat_first,1,0,0
+598069,2013-05-19,2013,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kolkata Knight Riders,Deccan Chargers,0,0,0,bowl_first,0,1,0
+598070,2013-05-21,2013,Delhi,Feroz Shah Kotla,Chennai Super Kings,Mumbai Indians,Delhi Capitals,0,1,0,bat_first,1,1,0
+598070,2013-05-21,2013,Delhi,Feroz Shah Kotla,Mumbai Indians,Chennai Super Kings,Delhi Capitals,0,0,0,bowl_first,0,0,0
+598071,2013-05-22,2013,Delhi,Feroz Shah Kotla,Rajasthan Royals,Sunrisers Hyderabad,Delhi Capitals,0,0,0,bowl_first,0,1,0
+598071,2013-05-22,2013,Delhi,Feroz Shah Kotla,Sunrisers Hyderabad,Rajasthan Royals,Delhi Capitals,0,1,0,bat_first,1,0,0
+598072,2013-05-24,2013,Kolkata,Eden Gardens,Mumbai Indians,Rajasthan Royals,Kolkata Knight Riders,0,0,0,bowl_first,0,1,0
+598072,2013-05-24,2013,Kolkata,Eden Gardens,Rajasthan Royals,Mumbai Indians,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+598073,2013-05-26,2013,Kolkata,Eden Gardens,Chennai Super Kings,Mumbai Indians,Kolkata Knight Riders,0,0,0,bowl_first,0,0,0
+598073,2013-05-26,2013,Kolkata,Eden Gardens,Mumbai Indians,Chennai Super Kings,Kolkata Knight Riders,0,1,0,bat_first,1,1,0
+829705,2015-04-08,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+829705,2015-04-08,2015,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+829707,2015-04-09,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,0,0,bat_first,1,1,0
+829707,2015-04-09,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+829709,2015-04-10,2015,Pune,Maharashtra Cricket Association Stadium,Kings XI Punjab,Rajasthan Royals,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+829709,2015-04-10,2015,Pune,Maharashtra Cricket Association Stadium,Rajasthan Royals,Kings XI Punjab,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+829711,2015-04-11,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,1,1,1,bat_first,1,1,0
+829711,2015-04-11,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+829713,2015-04-11,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+829713,2015-04-11,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+829715,2015-04-12,2015,Delhi,Feroz Shah Kotla,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,0,0,bat_first,1,0,0
+829715,2015-04-12,2015,Delhi,Feroz Shah Kotla,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+829717,2015-04-12,2015,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+829717,2015-04-12,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bowl_first,0,0,0
+829719,2015-04-13,2015,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+829719,2015-04-13,2015,Bangalore,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+829721,2015-04-14,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+829721,2015-04-14,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+829725,2015-04-15,2015,Pune,Maharashtra Cricket Association Stadium,Delhi Capitals,Kings XI Punjab,Rising Pune Supergiants,0,0,0,bowl_first,0,1,0
+829725,2015-04-15,2015,Pune,Maharashtra Cricket Association Stadium,Kings XI Punjab,Delhi Capitals,Rising Pune Supergiants,0,1,0,bat_first,1,0,0
+829727,2015-04-16,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,1,0
+829727,2015-04-16,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1,0,0,bat_first,1,0,0
+829729,2015-04-17,2015,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+829729,2015-04-17,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bat_first,1,0,0
+829731,2015-04-18,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bat_first,1,1,0
+829731,2015-04-18,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,1,0,0,bowl_first,0,0,0
+829733,2015-04-18,2015,Pune,Maharashtra Cricket Association Stadium,Kings XI Punjab,Kolkata Knight Riders,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+829733,2015-04-18,2015,Pune,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Kings XI Punjab,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+829735,2015-04-19,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+829735,2015-04-19,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+829737,2015-04-19,2015,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+829737,2015-04-19,2015,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+829739,2015-04-20,2015,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,0,0,bat_first,1,0,0
+829739,2015-04-20,2015,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+829743,2015-04-22,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+829743,2015-04-22,2015,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+829745,2015-04-22,2015,Bangalore,M Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+829745,2015-04-22,2015,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+829747,2015-04-23,2015,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,0,0,bat_first,1,1,0
+829747,2015-04-23,2015,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+829749,2015-04-24,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,0,0,bat_first,1,0,0
+829749,2015-04-24,2015,Ahmedabad,"Sardar Patel Stadium, Motera",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+829751,2015-04-25,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,1,1,1,bat_first,1,1,0
+829751,2015-04-25,2015,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+829753,2015-04-25,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,1,1,bat_first,1,1,0
+829753,2015-04-25,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+829757,2015-04-26,2015,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bat_first,1,0,0
+829757,2015-04-26,2015,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+829759,2015-04-27,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+829759,2015-04-27,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+829765,2015-04-28,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,0,0,bat_first,1,1,0
+829765,2015-04-28,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+829723,2015-04-30,2015,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+829723,2015-04-30,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+829767,2015-05-01,2015,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bowl_first,0,1,0
+829767,2015-05-01,2015,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+829769,2015-05-01,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,0,0,bat_first,1,1,0
+829769,2015-05-01,2015,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+829771,2015-05-02,2015,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+829771,2015-05-02,2015,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+829773,2015-05-02,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Chennai Super Kings,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+829773,2015-05-02,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Chennai Super Kings,Deccan Chargers,0,0,0,bat_first,1,1,0
+829775,2015-05-03,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bowl_first,0,0,0
+829775,2015-05-03,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,1,0
+829777,2015-05-03,2015,Mumbai,Brabourne Stadium,Delhi Capitals,Rajasthan Royals,Mumbai Indians,0,1,0,bowl_first,0,0,0
+829777,2015-05-03,2015,Mumbai,Brabourne Stadium,Rajasthan Royals,Delhi Capitals,Mumbai Indians,0,0,0,bat_first,1,1,0
+829779,2015-05-04,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bat_first,1,1,0
+829779,2015-05-04,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+829781,2015-05-04,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+829781,2015-05-04,2015,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+829783,2015-05-05,2015,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,0,0
+829783,2015-05-05,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,0,bowl_first,0,1,0
+829785,2015-05-06,2015,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+829785,2015-05-06,2015,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+829761,2015-05-07,2015,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bowl_first,0,0,0
+829761,2015-05-07,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bat_first,1,1,0
+829787,2015-05-07,2015,Mumbai,Brabourne Stadium,Rajasthan Royals,Sunrisers Hyderabad,Mumbai Indians,0,1,0,bowl_first,0,0,0
+829787,2015-05-07,2015,Mumbai,Brabourne Stadium,Sunrisers Hyderabad,Rajasthan Royals,Mumbai Indians,0,0,0,bat_first,1,1,0
+829789,2015-05-08,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,1,1,bat_first,1,0,0
+829789,2015-05-08,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+829791,2015-05-09,2015,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+829791,2015-05-09,2015,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+829793,2015-05-09,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,0,0,bowl_first,0,0,0
+829793,2015-05-09,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+829795,2015-05-10,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,0,0,bowl_first,0,0,0
+829795,2015-05-10,2015,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,1,0
+829797,2015-05-10,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,1,1,bat_first,1,1,0
+829797,2015-05-10,2015,Chennai,"MA Chidambaram Stadium, Chepauk",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+829799,2015-05-11,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,0,0
+829799,2015-05-11,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kings XI Punjab,Deccan Chargers,0,1,0,bat_first,1,1,0
+829801,2015-05-12,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+829801,2015-05-12,2015,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,0,0,bowl_first,0,1,0
+829803,2015-05-13,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bat_first,1,1,0
+829803,2015-05-13,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+829805,2015-05-14,2015,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+829805,2015-05-14,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,0,0,bat_first,1,1,0
+829807,2015-05-15,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,1,0
+829807,2015-05-15,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,0,1,0,bat_first,1,0,0
+829809,2015-05-16,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+829809,2015-05-16,2015,Chandigarh,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,1,1,bat_first,1,0,0
+829811,2015-05-16,2015,Mumbai,Brabourne Stadium,Kolkata Knight Riders,Rajasthan Royals,Mumbai Indians,0,0,0,bowl_first,0,0,0
+829811,2015-05-16,2015,Mumbai,Brabourne Stadium,Rajasthan Royals,Kolkata Knight Riders,Mumbai Indians,0,1,0,bat_first,1,1,0
+829815,2015-05-17,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,1,0
+829815,2015-05-17,2015,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,0,1,0,bat_first,1,0,0
+829817,2015-05-19,2015,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,0,0
+829817,2015-05-19,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,1,1,bat_first,1,1,0
+829819,2015-05-20,2015,Pune,Maharashtra Cricket Association Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rising Pune Supergiants,0,0,0,bowl_first,0,0,0
+829819,2015-05-20,2015,Pune,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rising Pune Supergiants,0,1,0,bat_first,1,1,0
+829821,2015-05-22,2015,Ranchi,JSCA International Stadium Complex,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+829821,2015-05-22,2015,Ranchi,JSCA International Stadium Complex,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+829823,2015-05-24,2015,Kolkata,Eden Gardens,Chennai Super Kings,Mumbai Indians,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+829823,2015-05-24,2015,Kolkata,Eden Gardens,Mumbai Indians,Chennai Super Kings,Kolkata Knight Riders,0,0,0,bat_first,1,1,0
+980901,2016-04-09,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,1,1,1,bat_first,1,0,0
+980901,2016-04-09,2016,Mumbai,Wankhede Stadium,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,0,0,1,bowl_first,0,1,0
+980903,2016-04-10,2016,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+980903,2016-04-10,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+980905,2016-04-11,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+980905,2016-04-11,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Kings XI Punjab,1,0,0,bat_first,1,0,0
+980907,2016-04-12,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+980907,2016-04-12,2016,Bangalore,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+980909,2016-04-13,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+980909,2016-04-13,2016,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+980911,2016-04-14,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,1,0,0,bowl_first,0,1,0
+980911,2016-04-14,2016,Rajkot,Saurashtra Cricket Association Stadium,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,0,1,0,bat_first,1,0,0
+980913,2016-04-15,2016,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bowl_first,0,1,0
+980913,2016-04-15,2016,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+980915,2016-04-16,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,1,0
+980915,2016-04-16,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kolkata Knight Riders,Deccan Chargers,0,1,0,bat_first,1,0,0
+980917,2016-04-16,2016,Mumbai,Wankhede Stadium,Gujarat Lions,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+980917,2016-04-16,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Gujarat Lions,Mumbai Indians,1,0,0,bat_first,1,0,0
+980919,2016-04-17,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+980919,2016-04-17,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+980921,2016-04-17,2016,Bangalore,M Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+980921,2016-04-17,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+980923,2016-04-18,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,0,0
+980923,2016-04-18,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,0,1,0,bowl_first,0,1,0
+980925,2016-04-19,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,0,0,bat_first,1,0,0
+980925,2016-04-19,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+980927,2016-04-20,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,1,bowl_first,0,1,0
+980927,2016-04-20,2016,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+980929,2016-04-21,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Sunrisers Hyderabad,Gujarat Lions,1,0,0,bat_first,1,0,0
+980929,2016-04-21,2016,Rajkot,Saurashtra Cricket Association Stadium,Sunrisers Hyderabad,Gujarat Lions,Gujarat Lions,0,1,0,bowl_first,0,1,0
+980931,2016-04-22,2016,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,1,1,1,bowl_first,0,0,0
+980931,2016-04-22,2016,Pune,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,1,0
+980933,2016-04-23,2016,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,0,0,bat_first,1,1,0
+980933,2016-04-23,2016,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+980935,2016-04-23,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,0,0
+980935,2016-04-23,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kings XI Punjab,Deccan Chargers,0,1,0,bowl_first,0,1,0
+980937,2016-04-24,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,1,0,0,bowl_first,0,1,0
+980937,2016-04-24,2016,Rajkot,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,0,1,0,bat_first,1,0,0
+980939,2016-04-24,2016,Pune,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+980939,2016-04-24,2016,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,1,0,0,bat_first,1,0,0
+980941,2016-04-25,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+980941,2016-04-25,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+980943,2016-04-26,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,1,0
+980943,2016-04-26,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rising Pune Supergiants,Deccan Chargers,0,0,0,bat_first,1,0,0
+980945,2016-04-27,2016,Delhi,Feroz Shah Kotla,Delhi Capitals,Gujarat Lions,Delhi Capitals,1,1,1,bowl_first,0,0,0
+980945,2016-04-27,2016,Delhi,Feroz Shah Kotla,Gujarat Lions,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+980947,2016-04-28,2016,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+980947,2016-04-28,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,1,0
+980949,2016-04-29,2016,Pune,Maharashtra Cricket Association Stadium,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+980949,2016-04-29,2016,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,1,0,0,bat_first,1,0,0
+980951,2016-04-30,2016,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,0,0,bat_first,1,1,0
+980951,2016-04-30,2016,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+980953,2016-04-30,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+980953,2016-04-30,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,0,0,0,bat_first,1,1,0
+980955,2016-05-01,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Kings XI Punjab,Gujarat Lions,1,1,1,bowl_first,0,0,0
+980955,2016-05-01,2016,Rajkot,Saurashtra Cricket Association Stadium,Kings XI Punjab,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,1,0
+980957,2016-05-01,2016,Pune,Maharashtra Cricket Association Stadium,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+980957,2016-05-01,2016,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,1,0,0,bat_first,1,0,0
+980959,2016-05-02,2016,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+980959,2016-05-02,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+980961,2016-05-03,2016,Rajkot,Saurashtra Cricket Association Stadium,Delhi Capitals,Gujarat Lions,Gujarat Lions,0,1,0,bowl_first,0,1,0
+980961,2016-05-03,2016,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Delhi Capitals,Gujarat Lions,1,0,0,bat_first,1,0,0
+980963,2016-05-04,2016,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+980963,2016-05-04,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+980965,2016-05-05,2016,Delhi,Feroz Shah Kotla,Delhi Capitals,Rising Pune Supergiants,Delhi Capitals,1,0,0,bat_first,1,0,0
+980965,2016-05-05,2016,Delhi,Feroz Shah Kotla,Rising Pune Supergiants,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+980967,2016-05-06,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Gujarat Lions,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,0,0
+980967,2016-05-06,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Gujarat Lions,Deccan Chargers,0,1,0,bowl_first,0,1,0
+980969,2016-05-07,2016,Bangalore,M Chinnaswamy Stadium,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+980969,2016-05-07,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+980971,2016-05-07,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+980971,2016-05-07,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+980973,2016-05-08,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+980973,2016-05-08,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+980975,2016-05-08,2016,Kolkata,Eden Gardens,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+980975,2016-05-08,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+980977,2016-05-09,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+980977,2016-05-09,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+980979,2016-05-10,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bowl_first,0,0,0
+980979,2016-05-10,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,1,1,1,bat_first,1,1,0
+980981,2016-05-11,2016,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+980981,2016-05-11,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+980983,2016-05-12,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,1,0
+980983,2016-05-12,2016,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,0,0,0,bat_first,1,0,0
+980985,2016-05-13,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab,Mumbai Indians,Sunrisers Hyderabad,0,0,0,bowl_first,0,1,0
+980985,2016-05-13,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Kings XI Punjab,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+980987,2016-05-14,2016,Bangalore,M Chinnaswamy Stadium,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+980987,2016-05-14,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+980989,2016-05-14,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,1,0,0,bowl_first,0,1,0
+980989,2016-05-14,2016,Kolkata,Eden Gardens,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bat_first,1,0,0
+980991,2016-05-15,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bat_first,1,0,0
+980991,2016-05-15,2016,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,1,0
+980993,2016-05-15,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Mumbai Indians,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+980993,2016-05-15,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Mumbai Indians,Delhi Capitals,Sunrisers Hyderabad,0,0,0,bat_first,1,1,0
+980995,2016-05-16,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+980995,2016-05-16,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+980997,2016-05-17,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Rising Pune Supergiants,Sunrisers Hyderabad,0,0,0,bat_first,1,0,0
+980997,2016-05-17,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants,Delhi Capitals,Sunrisers Hyderabad,0,1,0,bowl_first,0,1,0
+980999,2016-05-18,2016,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+980999,2016-05-18,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+981001,2016-05-19,2016,Kanpur,Green Park,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,1,1,1,bowl_first,0,1,0
+981001,2016-05-19,2016,Kanpur,Green Park,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,0,0
+981003,2016-05-20,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,1,1,bowl_first,0,1,0
+981003,2016-05-20,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+981005,2016-05-21,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Kings XI Punjab,Rising Pune Supergiants,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+981005,2016-05-21,2016,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Rising Pune Supergiants,Kings XI Punjab,Sunrisers Hyderabad,0,0,0,bowl_first,0,1,0
+981007,2016-05-21,2016,Kanpur,Green Park,Gujarat Lions,Mumbai Indians,Gujarat Lions,1,1,1,bowl_first,0,1,0
+981007,2016-05-21,2016,Kanpur,Green Park,Mumbai Indians,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,0,0
+981009,2016-05-22,2016,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+981009,2016-05-22,2016,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+981011,2016-05-22,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bat_first,1,0,0
+981011,2016-05-22,2016,Raipur,Shaheed Veer Narayan Singh International Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+981013,2016-05-24,2016,Bangalore,M Chinnaswamy Stadium,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+981013,2016-05-24,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+981015,2016-05-25,2016,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Sunrisers Hyderabad,Delhi Capitals,0,1,0,bowl_first,0,0,0
+981015,2016-05-25,2016,Delhi,Feroz Shah Kotla,Sunrisers Hyderabad,Kolkata Knight Riders,Delhi Capitals,0,0,0,bat_first,1,1,0
+981017,2016-05-27,2016,Delhi,Feroz Shah Kotla,Gujarat Lions,Sunrisers Hyderabad,Delhi Capitals,0,0,0,bat_first,1,0,0
+981017,2016-05-27,2016,Delhi,Feroz Shah Kotla,Sunrisers Hyderabad,Gujarat Lions,Delhi Capitals,0,1,0,bowl_first,0,1,0
+981019,2016-05-29,2016,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,0,0,bowl_first,0,0,0
+981019,2016-05-29,2016,Bangalore,M Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bat_first,1,1,0
+1082591,2017-04-05,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Royal Challengers Bangalore,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+1082591,2017-04-05,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Royal Challengers Bangalore,Deccan Chargers,0,0,0,bat_first,1,1,0
+1082592,2017-04-06,2017,Pune,Maharashtra Cricket Association Stadium,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,0,0
+1082592,2017-04-06,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Mumbai Indians,Rising Pune Supergiants,1,1,1,bowl_first,0,1,0
+1082593,2017-04-07,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,1,0,0,bat_first,1,0,0
+1082593,2017-04-07,2017,Rajkot,Saurashtra Cricket Association Stadium,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,0,1,0,bowl_first,0,1,0
+1082594,2017-04-08,2017,Indore,Holkar Cricket Stadium,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1082594,2017-04-08,2017,Indore,Holkar Cricket Stadium,Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1082595,2017-04-08,2017,Bengaluru,M.Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bowl_first,0,0,0
+1082595,2017-04-08,2017,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,1,1,bat_first,1,1,0
+1082596,2017-04-09,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Gujarat Lions,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,0,0
+1082596,2017-04-09,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Gujarat Lions,Deccan Chargers,0,1,0,bowl_first,0,1,0
+1082597,2017-04-09,2017,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1082597,2017-04-09,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1082598,2017-04-10,2017,Indore,Holkar Cricket Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bowl_first,0,1,0
+1082598,2017-04-10,2017,Indore,Holkar Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bat_first,1,0,0
+1082599,2017-04-11,2017,Pune,Maharashtra Cricket Association Stadium,Delhi Capitals,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,1,0
+1082599,2017-04-11,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Delhi Capitals,Rising Pune Supergiants,1,1,1,bowl_first,0,0,0
+1082600,2017-04-12,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1082600,2017-04-12,2017,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1082601,2017-04-13,2017,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1082601,2017-04-13,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1082602,2017-04-14,2017,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1082602,2017-04-14,2017,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1082603,2017-04-14,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,1,1,1,bowl_first,0,1,0
+1082603,2017-04-14,2017,Rajkot,Saurashtra Cricket Association Stadium,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,0,0
+1082604,2017-04-15,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1082604,2017-04-15,2017,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1082605,2017-04-15,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bat_first,1,1,0
+1082605,2017-04-15,2017,Delhi,Feroz Shah Kotla,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+1082606,2017-04-16,2017,Mumbai,Wankhede Stadium,Gujarat Lions,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1082606,2017-04-16,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Gujarat Lions,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1082607,2017-04-16,2017,Bangalore,M Chinnaswamy Stadium,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+1082607,2017-04-16,2017,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+1082608,2017-04-17,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,1,1,bat_first,1,0,0
+1082608,2017-04-17,2017,Delhi,Feroz Shah Kotla,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+1082609,2017-04-17,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kings XI Punjab,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+1082609,2017-04-17,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kings XI Punjab,Deccan Chargers,0,0,0,bat_first,1,1,0
+1082610,2017-04-18,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,1,1,1,bowl_first,0,0,0
+1082610,2017-04-18,2017,Rajkot,Saurashtra Cricket Association Stadium,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,1,0
+1082611,2017-04-19,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Delhi Capitals,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bowl_first,0,0,0
+1082611,2017-04-19,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Delhi Capitals,Deccan Chargers,0,1,0,bat_first,1,1,0
+1082612,2017-04-20,2017,Indore,Holkar Cricket Stadium,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1082612,2017-04-20,2017,Indore,Holkar Cricket Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1082613,2017-04-21,2017,Kolkata,Eden Gardens,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1082613,2017-04-21,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Gujarat Lions,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1082614,2017-04-22,2017,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+1082614,2017-04-22,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,0,bat_first,1,1,0
+1082615,2017-04-22,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Sunrisers Hyderabad,Rising Pune Supergiants,1,1,1,bowl_first,0,1,0
+1082615,2017-04-22,2017,Pune,Maharashtra Cricket Association Stadium,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,0,0
+1082616,2017-04-23,2017,Rajkot,Saurashtra Cricket Association Stadium,Gujarat Lions,Kings XI Punjab,Gujarat Lions,1,1,1,bowl_first,0,0,0
+1082616,2017-04-23,2017,Rajkot,Saurashtra Cricket Association Stadium,Kings XI Punjab,Gujarat Lions,Gujarat Lions,0,0,1,bat_first,1,1,0
+1082617,2017-04-23,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1082617,2017-04-23,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1082618,2017-04-24,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,1,1,1,bowl_first,0,0,0
+1082618,2017-04-24,2017,Mumbai,Wankhede Stadium,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+1082620,2017-04-26,2017,Pune,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+1082620,2017-04-26,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,1,0,0,bat_first,1,0,0
+1082621,2017-04-27,2017,Bangalore,M Chinnaswamy Stadium,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1082621,2017-04-27,2017,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1082622,2017-04-28,2017,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1082622,2017-04-28,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1082623,2017-04-28,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+1082623,2017-04-28,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+1082624,2017-04-29,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Royal Challengers Bangalore,Rising Pune Supergiants,1,0,0,bat_first,1,1,0
+1082624,2017-04-29,2017,Pune,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+1082626,2017-04-30,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1082626,2017-04-30,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1082627,2017-04-30,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Kolkata Knight Riders,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bowl_first,0,0,0
+1082627,2017-04-30,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kolkata Knight Riders,Deccan Chargers,0,0,0,bat_first,1,1,0
+1082628,2017-05-01,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,0,0,bowl_first,0,1,0
+1082628,2017-05-01,2017,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,1,0,bat_first,1,0,0
+1082629,2017-05-01,2017,Pune,Maharashtra Cricket Association Stadium,Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,0,0
+1082629,2017-05-01,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,1,1,1,bowl_first,0,1,0
+1082630,2017-05-02,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,1,1,bowl_first,0,1,0
+1082630,2017-05-02,2017,Delhi,Feroz Shah Kotla,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+1082631,2017-05-03,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1082631,2017-05-03,2017,Kolkata,Eden Gardens,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1082632,2017-05-04,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Gujarat Lions,Delhi Capitals,1,1,1,bowl_first,0,1,0
+1082632,2017-05-04,2017,Delhi,Feroz Shah Kotla,Gujarat Lions,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+1082633,2017-05-05,2017,Bangalore,M Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+1082633,2017-05-05,2017,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+1082634,2017-05-06,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants,Sunrisers Hyderabad,Deccan Chargers,0,0,0,bat_first,1,1,0
+1082634,2017-05-06,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Rising Pune Supergiants,Deccan Chargers,0,1,0,bowl_first,0,0,0
+1082635,2017-05-06,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,1,1,bowl_first,0,0,0
+1082635,2017-05-06,2017,Delhi,Feroz Shah Kotla,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+1082636,2017-05-07,2017,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1082636,2017-05-07,2017,Bangalore,M Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1082637,2017-05-07,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Gujarat Lions,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1082637,2017-05-07,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1082638,2017-05-08,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Sunrisers Hyderabad,Deccan Chargers,0,1,0,bat_first,1,0,0
+1082638,2017-05-08,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Mumbai Indians,Deccan Chargers,0,0,0,bowl_first,0,1,0
+1082639,2017-05-09,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,0,0,bat_first,1,1,0
+1082639,2017-05-09,2017,Chandigarh,"Punjab Cricket Association IS Bindra Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+1082640,2017-05-10,2017,Kanpur,Green Park,Delhi Capitals,Gujarat Lions,Gujarat Lions,0,1,0,bowl_first,0,1,0
+1082640,2017-05-10,2017,Kanpur,Green Park,Gujarat Lions,Delhi Capitals,Gujarat Lions,1,0,0,bat_first,1,0,0
+1082641,2017-05-11,2017,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+1082641,2017-05-11,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bowl_first,0,0,0
+1082642,2017-05-12,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Rising Pune Supergiants,Delhi Capitals,1,1,1,bat_first,1,1,0
+1082642,2017-05-12,2017,Delhi,Feroz Shah Kotla,Rising Pune Supergiants,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+1082643,2017-05-13,2017,Kanpur,Green Park,Gujarat Lions,Sunrisers Hyderabad,Gujarat Lions,1,0,0,bat_first,1,0,0
+1082643,2017-05-13,2017,Kanpur,Green Park,Sunrisers Hyderabad,Gujarat Lions,Gujarat Lions,0,1,0,bowl_first,0,1,0
+1082644,2017-05-13,2017,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+1082644,2017-05-13,2017,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+1082645,2017-05-14,2017,Pune,Maharashtra Cricket Association Stadium,Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,0,0,1,bat_first,1,0,0
+1082645,2017-05-14,2017,Pune,Maharashtra Cricket Association Stadium,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,1,1,1,bowl_first,0,1,0
+1082646,2017-05-14,2017,Delhi,Feroz Shah Kotla,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bowl_first,0,0,0
+1082646,2017-05-14,2017,Delhi,Feroz Shah Kotla,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+1082647,2017-05-16,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,1,1,1,bowl_first,0,0,0
+1082647,2017-05-16,2017,Mumbai,Wankhede Stadium,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+1082648,2017-05-17,2017,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1082648,2017-05-17,2017,Bangalore,M Chinnaswamy Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Royal Challengers Bangalore,0,0,0,bat_first,1,0,0
+1082649,2017-05-19,2017,Bangalore,M Chinnaswamy Stadium,Kolkata Knight Riders,Mumbai Indians,Royal Challengers Bangalore,0,0,0,bat_first,1,0,0
+1082649,2017-05-19,2017,Bangalore,M Chinnaswamy Stadium,Mumbai Indians,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1082650,2017-05-21,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Mumbai Indians,Rising Pune Supergiants,Deccan Chargers,0,1,0,bat_first,1,1,0
+1082650,2017-05-21,2017,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",Rising Pune Supergiants,Mumbai Indians,Deccan Chargers,0,0,0,bowl_first,0,0,0
+1136561,2018-04-07,2018,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1136561,2018-04-07,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,0,0,bat_first,1,0,0
+1136562,2018-04-08,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1136562,2018-04-08,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1136563,2018-04-08,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1136563,2018-04-08,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1136564,2018-04-09,2018,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,0,0
+1136564,2018-04-09,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1,1,1,bowl_first,0,1,0
+1136565,2018-04-10,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+1136565,2018-04-10,2018,Chennai,MA Chidambaram Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+1136566,2018-04-11,2018,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,0,0
+1136566,2018-04-11,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,0,0,bat_first,1,1,0
+1136567,2018-04-12,2018,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,0,0
+1136567,2018-04-12,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,1,1,1,bowl_first,0,1,0
+1136568,2018-04-13,2018,Bengaluru,M.Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+1136568,2018-04-13,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+1136569,2018-04-14,2018,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1136569,2018-04-14,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,0,0,bat_first,1,0,0
+1136570,2018-04-14,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1136570,2018-04-14,2018,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1136571,2018-04-15,2018,Bengaluru,M.Chinnaswamy Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+1136571,2018-04-15,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+1136572,2018-04-15,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+1136572,2018-04-15,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,0,0,bat_first,1,1,0
+1136573,2018-04-16,2018,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1136573,2018-04-16,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1136574,2018-04-17,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,0,0,bat_first,1,1,0
+1136574,2018-04-17,2018,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+1136575,2018-04-18,2018,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+1136575,2018-04-18,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,0,0,bat_first,1,0,0
+1136576,2018-04-19,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bat_first,1,1,0
+1136576,2018-04-19,2018,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bowl_first,0,0,0
+1136577,2018-04-20,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Rajasthan Royals,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+1136577,2018-04-20,2018,Pune,Maharashtra Cricket Association Stadium,Rajasthan Royals,Chennai Super Kings,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+1136578,2018-04-21,2018,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1136578,2018-04-21,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1136579,2018-04-21,2018,Bengaluru,M.Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+1136579,2018-04-21,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+1136580,2018-04-22,2018,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,1,0
+1136580,2018-04-22,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,1,1,1,bowl_first,0,0,0
+1136581,2018-04-22,2018,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+1136581,2018-04-22,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+1136582,2018-04-23,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bowl_first,0,0,0
+1136582,2018-04-23,2018,Delhi,Arun Jaitley Stadium,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,1,0
+1136583,2018-04-24,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,1,1,1,bowl_first,0,0,0
+1136583,2018-04-24,2018,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+1136584,2018-04-25,2018,Bengaluru,M.Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1136584,2018-04-25,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1136585,2018-04-26,2018,Hyderabad,Rajiv Gandhi International Stadium,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+1136585,2018-04-26,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+1136586,2018-04-27,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,1,0,0,bat_first,1,1,0
+1136586,2018-04-27,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+1136587,2018-04-28,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Mumbai Indians,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+1136587,2018-04-28,2018,Pune,Maharashtra Cricket Association Stadium,Mumbai Indians,Chennai Super Kings,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+1136588,2018-04-29,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,1,0,0,bowl_first,0,0,0
+1136588,2018-04-29,2018,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,1,0
+1136589,2018-04-29,2018,Bengaluru,M.Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1136589,2018-04-29,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1136590,2018-04-30,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Delhi Capitals,Rising Pune Supergiants,0,0,0,bat_first,1,1,0
+1136590,2018-04-30,2018,Pune,Maharashtra Cricket Association Stadium,Delhi Capitals,Chennai Super Kings,Rising Pune Supergiants,0,1,0,bowl_first,0,0,0
+1136591,2018-05-01,2018,Bengaluru,M.Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+1136591,2018-05-01,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+1136592,2018-05-02,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,0,0,bat_first,1,1,0
+1136592,2018-05-02,2018,Delhi,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+1136593,2018-05-03,2018,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1136593,2018-05-03,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1136594,2018-05-04,2018,Indore,Holkar Cricket Stadium,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1136594,2018-05-04,2018,Indore,Holkar Cricket Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1136595,2018-05-05,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Royal Challengers Bangalore,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+1136595,2018-05-05,2018,Pune,Maharashtra Cricket Association Stadium,Royal Challengers Bangalore,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+1136596,2018-05-05,2018,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+1136596,2018-05-05,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,1,0,0,bowl_first,0,1,0
+1136597,2018-05-06,2018,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+1136597,2018-05-06,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,0,0,bat_first,1,1,0
+1136598,2018-05-06,2018,Indore,Holkar Cricket Stadium,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1136598,2018-05-06,2018,Indore,Holkar Cricket Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1136599,2018-05-07,2018,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+1136599,2018-05-07,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+1136600,2018-05-08,2018,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+1136600,2018-05-08,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,1,1,bat_first,1,1,0
+1136601,2018-05-09,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+1136601,2018-05-09,2018,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+1136602,2018-05-10,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,1,1,bat_first,1,0,0
+1136602,2018-05-10,2018,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+1136603,2018-05-11,2018,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,0,bat_first,1,0,0
+1136603,2018-05-11,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,0,0,bowl_first,0,1,0
+1136604,2018-05-12,2018,Indore,Holkar Cricket Stadium,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,1,1,bowl_first,0,0,0
+1136604,2018-05-12,2018,Indore,Holkar Cricket Stadium,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,1,0
+1136605,2018-05-12,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,0,0,bat_first,1,0,0
+1136605,2018-05-12,2018,Delhi,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+1136606,2018-05-13,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Sunrisers Hyderabad,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+1136606,2018-05-13,2018,Pune,Maharashtra Cricket Association Stadium,Sunrisers Hyderabad,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+1136607,2018-05-13,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,0,0,bat_first,1,0,0
+1136607,2018-05-13,2018,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1136608,2018-05-14,2018,Indore,Holkar Cricket Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1136608,2018-05-14,2018,Indore,Holkar Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1136609,2018-05-15,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1136609,2018-05-15,2018,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1136610,2018-05-16,2018,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+1136610,2018-05-16,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,0,0,bat_first,1,1,0
+1136611,2018-05-17,2018,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+1136611,2018-05-17,2018,Bengaluru,M.Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+1136612,2018-05-18,2018,Delhi,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,0,0
+1136612,2018-05-18,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,0,0,bat_first,1,1,0
+1136613,2018-05-19,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,1,1,bat_first,1,1,0
+1136613,2018-05-19,2018,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,0,1,bowl_first,0,0,0
+1136614,2018-05-19,2018,Hyderabad,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bowl_first,0,1,0
+1136614,2018-05-19,2018,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,1,1,1,bat_first,1,0,0
+1136615,2018-05-20,2018,Delhi,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,1,1,bat_first,1,1,0
+1136615,2018-05-20,2018,Delhi,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+1136616,2018-05-20,2018,Pune,Maharashtra Cricket Association Stadium,Chennai Super Kings,Kings XI Punjab,Rising Pune Supergiants,0,1,0,bowl_first,0,1,0
+1136616,2018-05-20,2018,Pune,Maharashtra Cricket Association Stadium,Kings XI Punjab,Chennai Super Kings,Rising Pune Supergiants,0,0,0,bat_first,1,0,0
+1136617,2018-05-22,2018,Mumbai,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1136617,2018-05-22,2018,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Mumbai Indians,0,0,0,bat_first,1,0,0
+1136618,2018-05-23,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1136618,2018-05-23,2018,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1136619,2018-05-25,2018,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+1136619,2018-05-25,2018,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+1136620,2018-05-27,2018,Mumbai,Wankhede Stadium,Chennai Super Kings,Sunrisers Hyderabad,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1136620,2018-05-27,2018,Mumbai,Wankhede Stadium,Sunrisers Hyderabad,Chennai Super Kings,Mumbai Indians,0,0,0,bat_first,1,0,0
+1175356,2019-03-23,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+1175356,2019-03-23,2019,Chennai,MA Chidambaram Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+1175357,2019-03-24,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,1,1,1,bowl_first,0,1,0
+1175357,2019-03-24,2019,Kolkata,Eden Gardens,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,0,0
+1175358,2019-03-24,2019,Mumbai,Wankhede Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,1,0
+1175358,2019-03-24,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,1,1,1,bowl_first,0,0,0
+1175359,2019-03-25,2019,Jaipur,Sawai Mansingh Stadium,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,1,0
+1175359,2019-03-25,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,1,1,1,bowl_first,0,0,0
+1175360,2019-03-26,2019,Delhi,Arun Jaitley Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,1,0
+1175360,2019-03-26,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,1,1,1,bat_first,1,0,0
+1175361,2019-03-27,2019,Kolkata,Eden Gardens,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1175361,2019-03-27,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1175362,2019-03-28,2019,Bengaluru,M.Chinnaswamy Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,1,0
+1175362,2019-03-28,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,1,1,1,bowl_first,0,0,0
+1175363,2019-03-29,2019,Hyderabad,Rajiv Gandhi International Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+1175363,2019-03-29,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1,0,0,bowl_first,0,1,0
+1175364,2019-03-30,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1175364,2019-03-30,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1175366,2019-03-31,2019,Hyderabad,Rajiv Gandhi International Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+1175366,2019-03-31,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+1175367,2019-03-31,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,1,0,0,bat_first,1,1,0
+1175367,2019-03-31,2019,Chennai,MA Chidambaram Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+1175368,2019-04-01,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+1175368,2019-04-01,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+1175369,2019-04-02,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+1175369,2019-04-02,2019,Jaipur,Sawai Mansingh Stadium,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+1175370,2019-04-03,2019,Mumbai,Wankhede Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,0,0
+1175370,2019-04-03,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1,0,0,bat_first,1,1,0
+1175371,2019-04-04,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,1,0,0,bat_first,1,0,0
+1175371,2019-04-04,2019,Delhi,Arun Jaitley Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,0,1,0,bowl_first,0,1,0
+1175372,2019-04-05,2019,Bengaluru,M.Chinnaswamy Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1175372,2019-04-05,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1178393,2019-04-06,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,1,1,1,bat_first,1,1,0
+1178393,2019-04-06,2019,Chennai,MA Chidambaram Stadium,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,0,0
+1178394,2019-04-06,2019,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,1,0
+1178394,2019-04-06,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,1,1,1,bowl_first,0,0,0
+1178395,2019-04-07,2019,Bengaluru,M.Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,1,0
+1178395,2019-04-07,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,1,0,0,bat_first,1,0,0
+1178396,2019-04-07,2019,Jaipur,Sawai Mansingh Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+1178396,2019-04-07,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,1,0,0,bat_first,1,0,0
+1178397,2019-04-08,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1178397,2019-04-08,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1178398,2019-04-09,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+1178398,2019-04-09,2019,Chennai,MA Chidambaram Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+1178399,2019-04-10,2019,Mumbai,Wankhede Stadium,Kings XI Punjab,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1178399,2019-04-10,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Kings XI Punjab,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1178400,2019-04-11,2019,Jaipur,Sawai Mansingh Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+1178400,2019-04-11,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,1,0,0,bat_first,1,0,0
+1178401,2019-04-12,2019,Kolkata,Eden Gardens,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1178401,2019-04-12,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1178402,2019-04-13,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,1,0,0,bat_first,1,0,0
+1178402,2019-04-13,2019,Mumbai,Wankhede Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,0,1,0,bowl_first,0,1,0
+1178403,2019-04-13,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1178403,2019-04-13,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1178404,2019-04-14,2019,Kolkata,Eden Gardens,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1178404,2019-04-14,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1178405,2019-04-14,2019,Hyderabad,Rajiv Gandhi International Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,1,0
+1178405,2019-04-14,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,1,1,1,bowl_first,0,0,0
+1178406,2019-04-15,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1178406,2019-04-15,2019,Mumbai,Wankhede Stadium,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1178407,2019-04-16,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,1,0,0,bat_first,1,1,0
+1178407,2019-04-16,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,0,0
+1178408,2019-04-17,2019,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bat_first,1,0,0
+1178408,2019-04-17,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,1,0,0,bowl_first,0,1,0
+1178409,2019-04-18,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,1,0,0,bowl_first,0,0,0
+1178409,2019-04-18,2019,Delhi,Arun Jaitley Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,1,0
+1178410,2019-04-19,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1,1,1,bowl_first,0,0,0
+1178410,2019-04-19,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,0,0,1,bat_first,1,1,0
+1178411,2019-04-20,2019,Jaipur,Sawai Mansingh Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+1178411,2019-04-20,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+1178412,2019-04-20,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Kings XI Punjab,Delhi Capitals,1,1,1,bowl_first,0,1,0
+1178412,2019-04-20,2019,Delhi,Arun Jaitley Stadium,Kings XI Punjab,Delhi Capitals,Delhi Capitals,0,0,1,bat_first,1,0,0
+1178413,2019-04-21,2019,Hyderabad,Rajiv Gandhi International Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,0,0,1,bat_first,1,0,0
+1178413,2019-04-21,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,1,1,1,bowl_first,0,1,0
+1178414,2019-04-21,2019,Bengaluru,M.Chinnaswamy Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+1178414,2019-04-21,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+1178415,2019-04-22,2019,Jaipur,Sawai Mansingh Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,0,1,0,bowl_first,0,1,0
+1178415,2019-04-22,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,1,0,0,bat_first,1,0,0
+1178416,2019-04-23,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,1,1,1,bowl_first,0,1,0
+1178416,2019-04-23,2019,Chennai,MA Chidambaram Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,0,0
+1178417,2019-04-24,2019,Bengaluru,M.Chinnaswamy Stadium,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,0,1,0,bowl_first,0,0,0
+1178417,2019-04-24,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,1,0,0,bat_first,1,1,0
+1178418,2019-04-25,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1,0,0,bat_first,1,0,0
+1178418,2019-04-25,2019,Kolkata,Eden Gardens,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,1,0
+1178419,2019-04-26,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,1,1,bowl_first,0,0,0
+1178419,2019-04-26,2019,Chennai,MA Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,0,1,bat_first,1,1,0
+1178420,2019-04-27,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,1,1,1,bowl_first,0,1,0
+1178420,2019-04-27,2019,Jaipur,Sawai Mansingh Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,0,0,1,bat_first,1,0,0
+1178421,2019-04-28,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,1,1,1,bat_first,1,1,0
+1178421,2019-04-28,2019,Delhi,Arun Jaitley Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,0,0,1,bowl_first,0,0,0
+1178422,2019-04-28,2019,Kolkata,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,1,0,0,bat_first,1,1,0
+1178422,2019-04-28,2019,Kolkata,Eden Gardens,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,0,1,0,bowl_first,0,0,0
+1178423,2019-04-29,2019,Hyderabad,Rajiv Gandhi International Stadium,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,0,0
+1178423,2019-04-29,2019,Hyderabad,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,1,0,0,bat_first,1,1,0
+1178425,2019-05-01,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1,0,0,bat_first,1,1,0
+1178425,2019-05-01,2019,Chennai,MA Chidambaram Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,0,1,0,bowl_first,0,0,0
+1178427,2019-05-03,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,1,0,0,bat_first,1,0,0
+1178427,2019-05-03,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,0,1,0,bowl_first,0,1,0
+1178428,2019-05-04,2019,Delhi,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1,0,0,bowl_first,0,1,0
+1178428,2019-05-04,2019,Delhi,Arun Jaitley Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,0,1,0,bat_first,1,0,0
+1178429,2019-05-04,2019,Bengaluru,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,1,1,1,bowl_first,0,1,0
+1178429,2019-05-04,2019,Bengaluru,M.Chinnaswamy Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,0,0,1,bat_first,1,0,0
+1178430,2019-05-05,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,0,0,1,bat_first,1,0,0
+1178430,2019-05-05,2019,Chandigarh,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,1,1,1,bowl_first,0,1,0
+1178431,2019-05-05,2019,Mumbai,Wankhede Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,0,0,1,bat_first,1,0,0
+1178431,2019-05-05,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,1,1,1,bowl_first,0,1,0
+1181764,2019-05-07,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,1,1,1,bat_first,1,0,0
+1181764,2019-05-07,2019,Chennai,MA Chidambaram Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,0,0,1,bowl_first,0,1,0
+1181766,2019-05-08,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,0,1,0,bowl_first,0,1,0
+1181766,2019-05-08,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,1,0,0,bat_first,1,0,0
+1181767,2019-05-10,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Chennai Super Kings,Delhi Capitals,Sunrisers Hyderabad,0,1,0,bowl_first,0,1,0
+1181767,2019-05-10,2019,Visakhapatnam,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Chennai Super Kings,Sunrisers Hyderabad,0,0,0,bat_first,1,0,0
+1181768,2019-05-12,2019,Hyderabad,Rajiv Gandhi International Stadium,Chennai Super Kings,Mumbai Indians,Sunrisers Hyderabad,0,0,0,bowl_first,0,0,0
+1181768,2019-05-12,2019,Hyderabad,Rajiv Gandhi International Stadium,Mumbai Indians,Chennai Super Kings,Sunrisers Hyderabad,0,1,0,bat_first,1,1,0
