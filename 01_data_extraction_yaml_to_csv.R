@@ -31,7 +31,8 @@ get_or_na <- function(x, ...) {
 
 # 3. Name normalisation map
 name_fixes <- c(
-  "Rising Pune Supergiant" = "Rising Pune Supergiants"
+  "Rising Pune Supergiant" = "Rising Pune Supergiants",
+  "Delhi Daredevils" = "Delhi Capitals"
 )
 
 # 4. Home team mapping
